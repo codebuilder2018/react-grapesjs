@@ -26,6 +26,7 @@ const Home = () => {
     
     return (
         <div className='container'>
+		<div align='center'><h3>Web Splash Weaver</h3></div>
       <div className='row'>
         <div className='col-12 mt-5'>
           <form id='create-page'>
